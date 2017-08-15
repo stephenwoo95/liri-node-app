@@ -89,16 +89,4 @@ function query(cmd,title){
 	};
 }
 
-function twitterCmd(){
-
-}
-
-function spotifyCmd(){
-
-}
-
-function omdbCmd(){
-
-}
-
 query(command[0],title);
