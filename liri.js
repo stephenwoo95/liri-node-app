@@ -11,8 +11,6 @@ var spotify = require('node-spotify-api');
 var request = require('request');
 var fs = require("fs");
 
-var moment = require('moment');
-
 var client = new twitter(twitterKeys);
 var spotify = new spotify(spotifyKeys);
 
